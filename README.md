@@ -1,5 +1,5 @@
 # Contrasenya
-🔒 **BetterPasswordGenerator** allows, as the name suggests, generating passwords.
+🔒 **Contrasenya** allows, as the name suggests, generating passwords.
 
 - Lowercase characters
 - Uppercase characters
