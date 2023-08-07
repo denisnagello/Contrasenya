@@ -6,3 +6,7 @@
 - Digits
 - Special characters
 - Size
+
+## Compile
+
+Juste `cargo build`
