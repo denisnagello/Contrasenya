@@ -9,4 +9,4 @@
 
 ## Compile
 
-Juste `cargo build`
+Just `cargo build`
